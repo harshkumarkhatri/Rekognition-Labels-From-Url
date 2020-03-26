@@ -4,4 +4,4 @@
 * It can also be used to control the uploads based on the labels.
 * If we are using cloudinary as our cloud provider to store our media files then this could result as a good option.
 * This repo has another file `util.py` which has a function to resize and convert thee image into bytes. We can use that as well.<br>
-  But here better option is `io.ByteIO()`
+  But here better option is `io.ByteIO()`.
